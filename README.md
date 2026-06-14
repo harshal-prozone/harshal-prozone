@@ -1,207 +1,326 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:6A4FB6,100:00C2FF&height=220&section=header&text=Harshal%20Rajesh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Researcher%20%E2%80%A2%20NLP%20%26%20LLMs%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:6A4FB6,100:00C2FF&height=220&section=header&text=Harshal%20Rajesh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Researcher%20%E2%80%A2%20NLP%20%26%20LLMs%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=00C2FF&center=true&vCenter=true&width=750&lines=Training+models+while+pulling+all-nighters+%F0%9F%A7%A0;Currently+chasing%3A+hallucination-free+LLMs+%F0%9F%94%8D;2nd+Year+CSE+%40+PES+University+%7C+CGPA+9.07+%F0%9F%8E%93;Open+to+research+collabs+%26+internships+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=00C2FF&center=true&vCenter=true&width=850&lines=Training+models+while+pulling+all-nighters+🧠;Building+reliable+LLM+systems+🔍;Exploring+NLP,+RAG,+and+Multimodal+AI+🚀;Open+to+Research+Collaborations+and+Internships"/>
 
-<br/>
+<br>
 
-<a href="https://linkedin.com/in/c-harshal-rajesh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:harshalprozone@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/C_Harshal_Rajesh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://github.com/harshal-prozone"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/c-harshal-rajesh">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:harshalprozone@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/C_Harshal_Rajesh/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/harshal-prozone">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=harshal-prozone&style=for-the-badge&color=6A4FB6&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/harshal-prozone?style=for-the-badge&color=00C2FF&labelColor=1A1A2E"/>
+
+<img src="https://img.shields.io/github/followers/harshal-prozone?style=for-the-badge&label=FOLLOWERS&color=00C2FF"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
+---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 ```yaml
 name: Harshal Rajesh
-role: B.Tech CSE @ PES University (2024 - 2028)
-cgpa: 9.07
-focus: [NLP, LLMs, Multimodal Learning, Edge AI]
-research_interests:
-  - Low-resource NLP for Indian Languages
-  - LLM Hallucination Detection (RAG-based)
-  - Emotion-aware Conversational AI
+
+education:
+  degree: B.Tech Computer Science & Engineering
+  university: PES University
+  duration: 2024 - 2028
+  cgpa: 9.07
+
+specialization:
+  - Natural Language Processing
+  - Large Language Models
+  - Retrieval-Augmented Generation
+  - Multimodal AI
+  - Edge AI
+
 currently_building:
-  - HalluciTrace -> hallucination classification w/ RAG + embeddings
-  - Resume Matcher -> TF-IDF -> upgrading to Sentence Transformers
-fun_fact: "Wrote a Linux kernel module before perfecting my resume 😄"
+  - HalluciTrace
+  - Resume Matcher
+  - Research-grade NLP systems
+
+goal:
+  Build trustworthy, multilingual AI systems
+  that can operate reliably in real-world settings.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
+---
 
-## 📊 GitHub Analytics
+# 🔬 Research Interests
+
+* 🇮🇳 Low-Resource NLP for Indian Languages
+* 🔍 Hallucination Detection & Evaluation
+* 📚 Retrieval-Augmented Generation (RAG)
+* 🧠 Emotion-Aware Conversational AI
+* ⚡ Edge AI & Efficient Inference
+* 🤖 Multimodal Learning Systems
+
+---
+
+# 🗺️ 2025 Roadmap
+
+* [x] Build production-ready RAG systems
+* [x] Launch HalluciTrace MVP
+* [ ] Fine-tune multilingual transformer models
+* [ ] Publish technical research articles
+* [ ] Contribute to major open-source AI projects
+* [ ] Secure AI/ML research internship
+* [ ] Submit first research paper
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshal-prozone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00C2FF&icon_color=6A4FB6"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-prozone&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&langs_count=8"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshal-prozone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-prozone&layout=donut-vertical&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshal-prozone&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=6A4FB6&currStreakLabel=00C2FF"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshal-prozone&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshal-prozone&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C2FF&line=6A4FB6&point=ffffff&area=true"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshal-prozone&theme=tokyonight"/>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
-
-## 🐍 Contribution Snake
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/harshal-prozone/harshal-prozone/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshal-prozone&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
-> ⚙️ **One-time setup required** — see "Activating the Animations" section below.
+---
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
-
-## 🌐 3D Contribution Map
+# 🐍 Contribution Snake
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/harshal-prozone/harshal-prozone/output/github-contribution-grid-snake-dark.svg"/>
+
 </div>
 
-> ⚙️ **One-time setup required** — see "Activating the Animations" section below.
+---
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
-
-## 🧩 LeetCode Stats
+# 🌍 3D Contribution Map
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/C_Harshal_Rajesh?theme=dark&font=Karma&ext=heatmap&border=true&bg_color=0D1117&border_color=6A4FB6"/>
+
+<img src="https://raw.githubusercontent.com/harshal-prozone/harshal-prozone/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
+---
 
-## 🎯 Productivity Radar
+# 🧩 LeetCode Progress
 
 <div align="center">
+
+<img src="https://leetcard.jacoblin.cool/C_Harshal_Rajesh?theme=dark&font=Karma&ext=heatmap"/>
+
+</div>
+
+---
+
+# 🎯 Productivity Insights
+
+<div align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshal-prozone&theme=tokyonight"/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshal-prozone&theme=tokyonight&utcOffset=5.5"/>
+
 </div>
+
 <div align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshal-prozone&theme=tokyonight"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
-
-## 🏆 Trophy Room
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshal-prozone&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=7"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [EmoTrace](https://github.com/harshalprozone/Emotrace)
-Emotion-aware dialogue agent — fine-tuned **DistilBERT** tracks emotional drift, cognitive load & arc across conversation turns, with a rule-based override layer for high-stress contexts.
-
-`Python` `DistilBERT` `HuggingFace` `Flask` `NLP`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 HalluciTrace `[in progress]`
-RAG-based LLM hallucination detector — classifies outputs as **factual / faithfulness / reasoning** hallucinations using retrieval + embedding similarity. Model-agnostic, no ground-truth labels needed.
-
-`Python` `RAG` `Embeddings` `LLMs`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📄 Resume Matcher `[in progress]`
-TF-IDF + cosine similarity resume-to-JD matcher — currently being upgraded with **Sentence Transformers** for true semantic matching beyond keywords.
-
-`Python` `Scikit-learn` `TF-IDF`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 [FurniShop](https://github.com/harshal-prozone/furniShop-kivymd-app)
-Full-stack Android furniture e-commerce app — cart, payments, order tracking, plus a complete admin dashboard. Material Design UI on a MySQL backend.
-
-`Python` `KivyMD` `MySQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🐳 [ContainerWatch](https://github.com/harshalprozone/OS-Jackfruit)
-Lightweight Linux container supervisor with real-time kernel memory monitoring via a **custom kernel module (LKM)**.
-
-`Python` `C` `Linux Kernel`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [Host Discovery Service](https://github.com/harshalprozone/Host-DiscoveryService)
-SDN-based host discovery — dynamic MAC/IP learning and OpenFlow-driven flow management, simulated with **Mininet + POX**.
-
-`Python` `Mininet` `OpenFlow`
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,mysql,html,css,js,pytorch,sklearn,linux,kivy,git,vscode&theme=dark&perline=6"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Transformers-FF6F61?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sentence_Transformers-6A4FB6?style=for-the-badge"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
+---
 
-## 🎓 Certifications
-
-| Certification | Provider | Status |
-|---|---|---|
-| Elements of AI | University of Helsinki | ✅ Completed |
-| Machine Learning Specialization | Stanford / Coursera | 🚧 In Progress |
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
-
-## ⚙️ Activating the Animations
-
-The **snake** and **3D contribution map** sections need a tiny one-time GitHub Actions setup in this repo (`harshal-prozone/harshal-prozone`):
-
-1. Go to your repo → **Settings → Actions → General** → under *Workflow permissions*, select **Read and write permissions** → Save.
-2. Create the folder `.github/workflows/` in this repo.
-3. Add the two files below into that folder (provided separately: `snake.yml` and `profile-3d-contrib.yml`).
-4. Go to the **Actions** tab → run each workflow manually once (▶️ *Run workflow*).
-5. Within a minute, the snake SVG appears on the `output` branch, and the 3D contribution SVGs are committed directly to `main` under `profile-3d-contrib/`.
-6. Refresh your profile — both animations will now render and auto-update daily.
+# 🏆 Trophy Room
 
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshal-prozone&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 EmoTrace
+
+Emotion-aware dialogue intelligence system built using DistilBERT to monitor emotional drift and conversational state changes.
+
+**Tech:** Python • Transformers • NLP • Flask
+
+---
+
+## 🔍 HalluciTrace (In Progress)
+
+A model-agnostic hallucination detection framework for Large Language Models.
+
+Features:
+
+* Retrieval-Augmented Verification
+* Embedding Similarity Scoring
+* Faithfulness Classification
+* Reasoning Error Detection
+
+**Tech:** Python • RAG • Vector Embeddings • LLMs
+
+---
+
+## 📄 Resume Matcher
+
+Semantic resume-to-job-description matching engine.
+
+Current upgrade path:
+
+TF-IDF → Sentence Transformers → Semantic Ranking
+
+**Tech:** Python • Scikit-learn • NLP
+
+---
+
+## 🛒 FurniShop
+
+Full-stack Android furniture e-commerce platform with:
+
+* Authentication
+* Cart Management
+* Payments
+* Admin Dashboard
+* Order Tracking
+
+**Tech:** Python • KivyMD • MySQL
+
+---
+
+## 🐳 ContainerWatch
+
+Linux container supervision system featuring:
+
+* Kernel-level monitoring
+* Custom Linux Kernel Module
+* Resource tracking
+* Container diagnostics
+
+**Tech:** C • Linux Kernel • Python
+
+---
+
+## 🌐 Host Discovery Service
+
+SDN-based dynamic host discovery system built using OpenFlow and Mininet.
+
+**Tech:** Python • OpenFlow • Mininet
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,mysql,html,css,js,pytorch,sklearn,linux,git,vscode&theme=dark"/>
+
+</div>
+
+### Languages
+
+Python • C • JavaScript • SQL
+
+### AI / ML
+
+PyTorch • Transformers • Hugging Face • Scikit-Learn
+
+### NLP
+
+LLMs • RAG • Embeddings • Sentence Transformers
+
+### Systems
+
+Linux • Git • Networking • Kernel Development
+
+---
+
+# 📚 Publications & Writing
+
+Current research directions:
+
+* Hallucination Detection
+* Retrieval-Augmented Generation
+* Indian Language NLP
+* Conversational Intelligence
+
+Research articles and technical blogs coming soon.
+
+---
+
+# 📖 Currently Learning
+
+* Advanced NLP Systems
+* LLM Evaluation Frameworks
+* RLHF
+* AI Infrastructure
+* Multimodal Learning
+* Research Methodology
+
+---
+
+# 🤝 Open to Collaborate
+
+I'm actively interested in:
+
+* AI/ML Research Collaborations
+* NLP & LLM Projects
+* Open Source Contributions
+* Research Internships
+* Technical Writing
+
+### Contact
+
+📧 [harshalprozone@gmail.com](mailto:harshalprozone@gmail.com)
+
+🔗 LinkedIn:
+https://linkedin.com/in/c-harshal-rajesh
+
+💻 GitHub:
+https://github.com/harshal-prozone
+
+---
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:1A1A2E&height=120&section=footer"/>
 
-⭐ **Thanks for visiting — let's build something intelligent together!**
+### ⭐ Thanks for visiting — let's build reliable AI systems together.
+
 </div>
