@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:6A4FB6,100:00C2FF&height=200&section=header&text=Harshal%20Rajesh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:6A4FB6,100:00C2FF&height=200&section=header&text=C.%20Harshal%20Rajesh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <p><b>AI/ML Researcher &bull; NLP &amp; LLMs &bull; Full-Stack Builder</b></p>
 
@@ -96,14 +96,6 @@ fun_fact: "Wrote a Linux kernel module before perfecting my resume 😄"
 </div>
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshal-prozone&theme=tokyonight"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
-
-## 🏆 Trophy Room
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshal-prozone&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
