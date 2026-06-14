@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:6A4FB6,100:00C2FF&height=220&section=header&text=Harshal%20Rajesh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Researcher%20%E2%80%A2%20NLP%20%26%20LLMs%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:6A4FB6,100:00C2FF&height=200&section=header&text=Harshal%20Rajesh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<p><b>AI/ML Researcher &bull; NLP &amp; LLMs &bull; Full-Stack Builder</b></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=00C2FF&center=true&vCenter=true&width=750&lines=Training+models+while+pulling+all-nighters+%F0%9F%A7%A0;Currently+chasing%3A+hallucination-free+LLMs+%F0%9F%94%8D;2nd+Year+CSE+%40+PES+University+%7C+CGPA+9.07+%F0%9F%8E%93;Open+to+research+collabs+%26+internships+%F0%9F%9A%80" />
 
@@ -54,23 +56,27 @@ fun_fact: "Wrote a Linux kernel module before perfecting my resume 😄"
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
 
-## 🐍 Contribution Snake
+## 🔥 Contribution Heatmap
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/harshal-prozone/harshal-prozone/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://ghchart.rshah.org/6A4FB6/harshal-prozone" width="100%"/>
 </div>
-
-> ⚙️ **One-time setup required** — see "Activating the Animations" section below.
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
 
-## 🌐 3D Contribution Map
+## 🐍 Bonus: Snake & 3D Contribution Graphs
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/harshal-prozone/harshal-prozone/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<br/>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
 </div>
 
-> ⚙️ **One-time setup required** — see "Activating the Animations" section below.
+> ⚙️ These two render blank until you complete the **5-minute one-time setup** in "Activating the Animations" at the bottom of this page. Once set up, they animate and auto-refresh daily.
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
 
@@ -97,7 +103,7 @@ fun_fact: "Wrote a Linux kernel module before perfecting my resume 😄"
 ## 🏆 Trophy Room
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshal-prozone&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=harshal-prozone&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
@@ -201,7 +207,21 @@ The **snake** and **3D contribution map** sections need a tiny one-time GitHub A
 6. Refresh your profile — both animations will now render and auto-update daily.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:1A1A2E&height=120&section=footer"/>
 
-⭐ **Thanks for visiting — let's build something intelligent together!**
+### 💬 Quote of the Moment
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyo_night" />
+
+<br/><br/>
+
+### 🤝 Let's Build Something
+
+<a href="https://linkedin.com/in/c-harshal-rajesh"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:harshalprozone@gmail.com"><img src="https://img.shields.io/badge/Reach_out-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/harshal-prozone"><img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:1A1A2E&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=75" width="100%"/>
+
 </div>
