@@ -1,159 +1,207 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Harshal+%F0%9F%91%8B;CSE+Student+%40+PES+University;Building+at+the+intersection+of+NLP+%26+LLMs;Always+learning%2C+always+shipping" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=&fontSize=0" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:6A4FB6,100:00C2FF&height=220&section=header&text=Harshal%20Rajesh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Researcher%20%E2%80%A2%20NLP%20%26%20LLMs%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/c-harshal-rajesh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:harshalprozone@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/harshal-prozone"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=00C2FF&center=true&vCenter=true&width=750&lines=Training+models+while+pulling+all-nighters+%F0%9F%A7%A0;Currently+chasing%3A+hallucination-free+LLMs+%F0%9F%94%8D;2nd+Year+CSE+%40+PES+University+%7C+CGPA+9.07+%F0%9F%8E%93;Open+to+research+collabs+%26+internships+%F0%9F%9A%80" />
 
----
+<br/>
 
-### 🚀 About Me
+<a href="https://linkedin.com/in/c-harshal-rajesh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:harshalprozone@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/C_Harshal_Rajesh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://github.com/harshal-prozone"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-- 🎓 2nd Year **B.Tech CSE** student at **PES University**, Bengaluru — CGPA **9.07**
-- 🧠 Diving deep into **NLP**, **LLMs**, and **Multimodal Learning**
-- 🛠️ Building full-stack mobile apps and AI research projects in parallel
-- 🔬 Research interests: Multimodal Learning · Edge AI Deployment · Low-resource NLP for Indian Languages
-- 📫 Reach me at **harshalprozone@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=harshal-prozone&style=for-the-badge&color=6A4FB6&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/harshal-prozone?style=for-the-badge&color=00C2FF&labelColor=1A1A2E"/>
 
----
+</div>
 
-### 🧪 What I'm Building
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
 
-```python
-class Harshal:
-    def __init__(self):
-        self.role = "CSE Student & AI/ML Enthusiast"
-        self.focus = ["NLP", "LLMs", "Multimodal Learning"]
-        self.currently_building = ["HalluciTrace", "Resume Matcher"]
-        self.fun_fact = "Wrote a kernel module before writing a resume 😄"
+## 👨‍💻 About Me
 
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something cool!")
+```yaml
+name: Harshal Rajesh
+role: B.Tech CSE @ PES University (2024 - 2028)
+cgpa: 9.07
+focus: [NLP, LLMs, Multimodal Learning, Edge AI]
+research_interests:
+  - Low-resource NLP for Indian Languages
+  - LLM Hallucination Detection (RAG-based)
+  - Emotion-aware Conversational AI
+currently_building:
+  - HalluciTrace -> hallucination classification w/ RAG + embeddings
+  - Resume Matcher -> TF-IDF -> upgrading to Sentence Transformers
+fun_fact: "Wrote a Linux kernel module before perfecting my resume 😄"
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
 
-### 🔥 Featured Projects
+## 📊 GitHub Analytics
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshal-prozone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00C2FF&icon_color=6A4FB6"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-prozone&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&langs_count=8"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshal-prozone&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=6A4FB6&currStreakLabel=00C2FF"/>
+</div>
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshal-prozone&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C2FF&line=6A4FB6&point=ffffff&area=true"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/harshal-prozone/harshal-prozone/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+> ⚙️ **One-time setup required** — see "Activating the Animations" section below.
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
+
+## 🌐 3D Contribution Map
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</div>
+
+> ⚙️ **One-time setup required** — see "Activating the Animations" section below.
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/C_Harshal_Rajesh?theme=dark&font=Karma&ext=heatmap&border=true&bg_color=0D1117&border_color=6A4FB6"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
+
+## 🎯 Productivity Radar
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshal-prozone&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshal-prozone&theme=tokyonight&utcOffset=5.5"/>
+</div>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshal-prozone&theme=tokyonight"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
+
+## 🏆 Trophy Room
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshal-prozone&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=7"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
-  <td width="50%">
-    <h4>🧠 EmoTrace — Emotion-Aware Dialogue Agent</h4>
-    <p>Conversational AI tracking emotional drift, cognitive load & arc using a fine-tuned DistilBERT model with a hybrid rule-based override layer.</p>
-    <p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/DistilBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-    </p>
-    <a href="https://github.com/harshalprozone/Emotrace">🔗 View Repo</a>
-  </td>
-  <td width="50%">
-    <h4>🔍 HalluciTrace — LLM Hallucination Detection</h4>
-    <p>RAG-based fact verification system classifying hallucinations as factual, faithfulness, or reasoning errors — model-agnostic, no ground truth needed.</p>
-    <p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/RAG-FF6F61?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Embeddings-4B8BBE?style=flat-square"/>
-    </p>
-    <i>🚧 In Progress</i>
-  </td>
+<td width="50%" valign="top">
+
+### 🧠 [EmoTrace](https://github.com/harshalprozone/Emotrace)
+Emotion-aware dialogue agent — fine-tuned **DistilBERT** tracks emotional drift, cognitive load & arc across conversation turns, with a rule-based override layer for high-stress contexts.
+
+`Python` `DistilBERT` `HuggingFace` `Flask` `NLP`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 HalluciTrace `[in progress]`
+RAG-based LLM hallucination detector — classifies outputs as **factual / faithfulness / reasoning** hallucinations using retrieval + embedding similarity. Model-agnostic, no ground-truth labels needed.
+
+`Python` `RAG` `Embeddings` `LLMs`
+
+</td>
 </tr>
 <tr>
-  <td width="50%">
-    <h4>📄 Resume Matcher — NLP Similarity Tool</h4>
-    <p>TF-IDF + cosine similarity resume-to-JD matcher, extending to Sentence Transformers for semantic matching.</p>
-    <p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-    </p>
-    <i>🚧 In Progress</i>
-  </td>
-  <td width="50%">
-    <h4>🛒 FurniShop — Full Stack E-Commerce App</h4>
-    <p>Android furniture shopping app with cart, payments, order tracking & full admin dashboard. Material Design via KivyMD + MySQL.</p>
-    <p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/KivyMD-2196F3?style=flat-square"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    </p>
-    <a href="https://github.com/harshal-prozone/furniShop-kivymd-app">🔗 View Repo</a>
-  </td>
+<td width="50%" valign="top">
+
+### 📄 Resume Matcher `[in progress]`
+TF-IDF + cosine similarity resume-to-JD matcher — currently being upgraded with **Sentence Transformers** for true semantic matching beyond keywords.
+
+`Python` `Scikit-learn` `TF-IDF`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 [FurniShop](https://github.com/harshal-prozone/furniShop-kivymd-app)
+Full-stack Android furniture e-commerce app — cart, payments, order tracking, plus a complete admin dashboard. Material Design UI on a MySQL backend.
+
+`Python` `KivyMD` `MySQL`
+
+</td>
 </tr>
 <tr>
-  <td width="50%">
-    <h4>🐳 ContainerWatch — Linux Container Supervision</h4>
-    <p>Lightweight container supervisor with real-time kernel memory monitoring via a custom LKM. Low-level systems programming.</p>
-    <p>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-    </p>
-    <a href="https://github.com/harshalprozone/OS-Jackfruit">🔗 View Repo</a>
-  </td>
-  <td width="50%">
-    <h4>🌐 Host Discovery Service — SDN Tool</h4>
-    <p>SDN-based host discovery with dynamic MAC/IP learning and OpenFlow flow management using Mininet + POX.</p>
-    <p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Mininet-005571?style=flat-square"/>
-      <img src="https://img.shields.io/badge/OpenFlow-FF6600?style=flat-square"/>
-    </p>
-    <a href="https://github.com/harshalprozone/Host-DiscoveryService">🔗 View Repo</a>
-  </td>
+<td width="50%" valign="top">
+
+### 🐳 [ContainerWatch](https://github.com/harshalprozone/OS-Jackfruit)
+Lightweight Linux container supervisor with real-time kernel memory monitoring via a **custom kernel module (LKM)**.
+
+`Python` `C` `Linux Kernel`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Host Discovery Service](https://github.com/harshalprozone/Host-DiscoveryService)
+SDN-based host discovery — dynamic MAC/IP learning and OpenFlow-driven flow management, simulated with **Mininet + POX**.
+
+`Python` `Mininet` `OpenFlow`
+
+</td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,mysql,html,css,js,pytorch,sklearn,linux,kivy" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Transformers-FF6F61?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,c,mysql,html,css,js,pytorch,sklearn,linux,kivy,git,vscode&theme=dark&perline=6"/>
 
----
+<br/><br/>
 
-### 📊 GitHub Stats
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Transformers-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sentence_Transformers-6A4FB6?style=for-the-badge"/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshal-prozone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-prozone&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshal-prozone&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshal-prozone&theme=tokyo-night&hide_border=true" />
-</p>
+## 🎓 Certifications
 
----
+| Certification | Provider | Status |
+|---|---|---|
+| Elements of AI | University of Helsinki | ✅ Completed |
+| Machine Learning Specialization | Stanford / Coursera | 🚧 In Progress |
 
-### 🏆 Certifications
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
 
-- 🤖 **Elements of AI** — University of Helsinki
-- 📈 **Machine Learning Specialization** — Stanford University / Coursera *(in progress)*
+## ⚙️ Activating the Animations
 
----
+The **snake** and **3D contribution map** sections need a tiny one-time GitHub Actions setup in this repo (`harshal-prozone/harshal-prozone`):
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshal-prozone&style=for-the-badge&color=58A6FF" alt="profile views"/>
-</p>
+1. Go to your repo → **Settings → Actions → General** → under *Workflow permissions*, select **Read and write permissions** → Save.
+2. Create the folder `.github/workflows/` in this repo.
+3. Add the two files below into that folder (provided separately: `snake.yml` and `profile-3d-contrib.yml`).
+4. Go to the **Actions** tab → run each workflow manually once (▶️ *Run workflow*).
+5. Within a minute, the snake SVG appears on the `output` branch, and the 3D contribution SVGs are committed directly to `main` under `profile-3d-contrib/`.
+6. Refresh your profile — both animations will now render and auto-update daily.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:1A1A2E&height=120&section=footer"/>
+
+⭐ **Thanks for visiting — let's build something intelligent together!**
+</div>
