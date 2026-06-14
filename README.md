@@ -23,7 +23,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Harshal Rajesh
+name: C. Harshal Rajesh
 role: B.Tech CSE @ PES University (2024 - 2028)
 cgpa: 9.07
 focus: [NLP, LLMs, Multimodal Learning, Edge AI]
